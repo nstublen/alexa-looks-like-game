@@ -1,0 +1,21 @@
+{
+  "name": "looks-like",
+  "version": "0.0.1",
+  "description": "Alexa Skill for Looks Like Game",
+  "main": "index.js",
+  "scripts": {
+    "build": "./build-package.sh",
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7",
+    "aws-sdk": "^2.28.0"
+  },
+  "devDependencies": {
+    "exceljs": "^0.2.39",
+    "jasmine": "^2.5.3",
+    "node-lambda": "^0.8.11"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "DailySelectionIntent"
+    },
+    {
+      "intent": "IndexedSelectionIntent",
+      "slots": [
+        {
+          "name": "index",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "RandomSelectionIntent"
+    },
+    {
+      "intent": "SpecificYearSelectionIntent",
+      "slots": [
+        {
+          "name": "year",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StartOverIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

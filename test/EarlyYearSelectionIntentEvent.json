@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "SessionId.ed142b7d-f881-4d69-b989-7993cb0a6b3f",
+    "application": {
+      "applicationId": "amzn1.ask.skill.dab62d88-29ad-4aac-8a7d-3658f8bfb677"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AGYY26XP6GFC6RY3FEGGOC26IWSCRQT6ATBVXFQT4AHNJCFDYOSKLYM5VAWOMPP6G4TDC6CQ6S4BWKZSQ5IX5QQCQB7RYPA4BZ65XYTOHEWT5RKTPAO72EH7NEEZTYRRBY2N6G2TUYHZ5SJTVGDB3GRZIFQIPVKYQP7RFMKCVPFQCA3KXAWUYC4J2IU46ROTNJSKV4FG2S6W5EY"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.e009f06b-e0ac-4e68-93be-7a213158f409",
+    "locale": "en-US",
+    "timestamp": "2017-03-21T00:42:58Z",
+    "intent": {
+      "name": "SpecificYearSelectionIntent",
+      "slots": {
+        "year": {
+          "name": "year",
+          "value": "2014"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

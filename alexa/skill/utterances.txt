@@ -1,0 +1,49 @@
+DailySelectionIntent today
+DailySelectionIntent looks like for today
+DailySelectionIntent for today
+DailySelectionIntent today's saying
+DailySelectionIntent today's looks like
+DailySelectionIntent play today's saying
+DailySelectionIntent play today's looks like
+DailySelectionIntent speak today's saying
+DailySelectionIntent speak today's looks like
+
+IndexedSelectionIntent number {index}
+IndexedSelectionIntent item {index}
+IndexedSelectionIntent saying {index}
+
+RandomSelectionIntent pick a random looks like
+RandomSelectionIntent pick a random saying
+RandomSelectionIntent pick a looks like
+RandomSelectionIntent pick a saying
+RandomSelectionIntent randomly select a looks like
+RandomSelectionIntent randomly select a saying
+RandomSelectionIntent randomly pick a looks like
+RandomSelectionIntent randomly pick a saying
+RandomSelectionIntent say a looks like
+RandomSelectionIntent say something
+RandomSelectionIntent pick a looks like
+RandomSelectionIntent pick something
+
+SpecificYearSelectionIntent pick a looks like from {year}
+SpecificYearSelectionIntent pick a saying from {year}
+SpecificYearSelectionIntent play a looks like from {year}
+SpecificYearSelectionIntent play a saying from {year}
+SpecificYearSelectionIntent select a looks like from {year}
+SpecificYearSelectionIntent select a saying from {year}
+SpecificYearSelectionIntent say a looks like from {year}
+SpecificYearSelectionIntent say something from {year}
+SpecificYearSelectionIntent play a looks like from {year}
+SpecificYearSelectionIntent play something from {year}
+SpecificYearSelectionIntent pick a looks like from {year}
+SpecificYearSelectionIntent pick something from {year}
+SpecificYearSelectionIntent say a looks like for {year}
+SpecificYearSelectionIntent say something for {year}
+SpecificYearSelectionIntent play a looks like for {year}
+SpecificYearSelectionIntent play something for {year}
+SpecificYearSelectionIntent pick a looks like for {year}
+SpecificYearSelectionIntent pick something for {year}
+SpecificYearSelectionIntent looks like from {year}
+SpecificYearSelectionIntent from {year}
+SpecificYearSelectionIntent looks like for {year}
+SpecificYearSelectionIntent for {year}
