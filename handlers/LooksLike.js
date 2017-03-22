@@ -1,3 +1,5 @@
+// AUTO-GENERATED - do not edit
+
 var Sayings = [
   {
     "name": "Adam Shefter",

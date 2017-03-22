@@ -1,4 +1,7 @@
 /**
+ * Transform an Excel spreadsheet into a JavaScript object that
+ * can be used as a content source from skill handlers.
+ *
  * Created by neal on 1/15/17.
  */
 
@@ -17,6 +20,8 @@ workbook.xlsx.readFile(xlFilename)
         var years = {};
         var choruses = 0;
 
+        // First row contains headers, which will be used as property
+        // names.
         var sheet = workbook.getWorksheet(1);
         var propertyNames = sheet.getRow(1);
         for (var rowIndex = 2; rowIndex <= sheet._rows.length; ++rowIndex) {
@@ -32,10 +37,16 @@ workbook.xlsx.readFile(xlFilename)
                     nextItem[propertyName] = propertyValue;
                 }
             }
+
+            // The "include" column can be used to skip any items
+            // that may not be appropriate.
             if (nextItem["include"] == "no") {
                 console.log("Skip " + nextItem["name"]);
                 continue;
             }
+
+            // The "saying" column cannot be blank, and we drop the
+            // "include" column.
             if (nextItem["saying"]) {
                 delete nextItem["include"];
                 items.push(nextItem);
@@ -44,7 +55,9 @@ workbook.xlsx.readFile(xlFilename)
 
         console.log(items.length + " items");
 
-        var text = "var Sayings = " + JSON.stringify(items, null, 2) + ";";
+        // Very simple code-gen.
+        var text = "// AUTO-GENERATED - do not edit\n\n";
+        text += "var Sayings = " + JSON.stringify(items, null, 2) + ";";
         text += "\n\nmodule.exports = { Sayings: Sayings };\n";
         fs.writeFile(jsFilename, text, function(error) {
             console.log("Sayings: " + items.length);
