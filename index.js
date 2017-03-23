@@ -73,8 +73,10 @@ var launchHandlers = {
 
         var cardTitle = "Looks Like Game";
         var cardContent = item["saying"];
+        var cardImageUrl = item.hasOwnProperty("imageUrl") ? item["imageUrl"] : undefined;
+        var cardImage = { smallImageUrl: cardImageUrl, largeImageUrl: cardImageUrl };
 
-        this.emit(':tellWithCard', saying, cardTitle, cardContent);
+        this.emit(':tellWithCard', saying, cardTitle, cardContent, cardImage);
     },
 
     'RandomSelectionIntent': function () {

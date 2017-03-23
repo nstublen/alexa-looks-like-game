@@ -31,7 +31,16 @@ workbook.xlsx.readFile(xlFilename)
                 var propertyName = propertyNames.getCell(colIndex).value;
                 var propertyValue = row.getCell(colIndex).value;
                 if (propertyName && propertyValue) {
-                    if (typeof propertyValue == "saying") {
+                    if (propertyName == "imageUrl") {
+                        propertyValue = propertyValue["text"] || propertyValue;
+                        if (propertyValue.indexOf("https://pbs.twimg.com/") != 0) {
+                            console.log("Skip " + propertyValue);
+                            continue;
+                        }
+                    }
+                }
+                if (propertyName && propertyValue) {
+                    if (typeof propertyValue == "string") {
                         propertyValue = propertyValue.replace(/\r\n/g, " ");
                     }
                     nextItem[propertyName] = propertyValue;
@@ -56,7 +65,8 @@ workbook.xlsx.readFile(xlFilename)
         console.log(items.length + " items");
 
         // Very simple code-gen.
-        var text = "// AUTO-GENERATED - do not edit\n\n";
+        var text = "// AUTO-GENERATED - do not edit\n";
+        text += "// " + Date().toString() + "\n\n";
         text += "var Sayings = " + JSON.stringify(items, null, 2) + ";";
         text += "\n\nmodule.exports = { Sayings: Sayings };\n";
         fs.writeFile(jsFilename, text, function(error) {
