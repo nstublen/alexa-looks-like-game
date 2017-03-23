@@ -54,6 +54,7 @@ var launchHandlers = {
         }
 
         console.log("Selecting item " + index + " of " + LooksLike.Sayings.length);
+        this.attributes["cardTitle"] = "Selection " + index + " of " + LooksLike.Sayings.length;
         this.attributes["item"] = LooksLike.Sayings[index - 1];
         this.emitWithState("ItemSelectionIntent");
     },
@@ -71,7 +72,7 @@ var launchHandlers = {
             saying = saying.replace(item["name"], item["phoneticName"]);
         }
 
-        var cardTitle = "Looks Like Game";
+        var cardTitle = this.attributes["cardTitle"] || "Looks Like Game";
         var cardContent = item["saying"];
         var cardImageUrl = item.hasOwnProperty("imageUrl") ? item["imageUrl"] : undefined;
         var cardImage = { smallImageUrl: cardImageUrl, largeImageUrl: cardImageUrl };
@@ -82,6 +83,7 @@ var launchHandlers = {
     'RandomSelectionIntent': function () {
         var index = Math.floor(Math.random() * LooksLike.Sayings.length);
         console.log("Selecting item " + (index + 1) + " of " + LooksLike.Sayings.length);
+        this.attributes["cardTitle"] = "Random Selection";
         this.attributes["item"] = LooksLike.Sayings[index];
         this.emitWithState("ItemSelectionIntent");
     },
@@ -109,6 +111,7 @@ var launchHandlers = {
 
         var index = Math.floor(Math.random() * filteredItems.length);
         console.log("Selecting item " + (index + 1) + " of " + filteredItems.length);
+        this.attributes["cardTitle"] = "Selection from " + year;
         this.attributes["item"] = filteredItems[index];
         this.emitWithState("ItemSelectionIntent");
     },
