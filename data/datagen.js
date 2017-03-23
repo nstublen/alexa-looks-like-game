@@ -34,7 +34,6 @@ workbook.xlsx.readFile(xlFilename)
                     if (propertyName == "imageUrl") {
                         propertyValue = propertyValue["text"] || propertyValue;
                         if (propertyValue.indexOf("https://pbs.twimg.com/") != 0) {
-                            console.log("Skip " + propertyValue);
                             continue;
                         }
                     }
@@ -63,6 +62,9 @@ workbook.xlsx.readFile(xlFilename)
         }
 
         console.log(items.length + " items");
+
+        var withImages = items.filter(function (a) { return a.hasOwnProperty("imageUrl"); });
+        console.log(withImages.length + " images");
 
         // Very simple code-gen.
         var text = "// AUTO-GENERATED - do not edit\n";

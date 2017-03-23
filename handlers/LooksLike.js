@@ -1,5 +1,5 @@
 // AUTO-GENERATED - do not edit
-// Thu Mar 23 2017 00:10:11 GMT-0500 (CDT)
+// Thu Mar 23 2017 01:36:29 GMT-0500 (CDT)
 
 var Sayings = [
   {
@@ -9,11 +9,13 @@ var Sayings = [
   },
   {
     "name": "Adam Silver",
+    "imageUrl": "https://pbs.twimg.com/media/CHRCauBUEAIBA9N.jpg",
     "date": 2017,
     "saying": "Adam Silver looks like he could, at any moment, unzip his human skin to unveil that he is actually a lizard man."
   },
   {
     "name": "Adam Silver",
+    "imageUrl": "https://pbs.twimg.com/media/C7aZLeGWwAEmkj_.jpg",
     "date": 2017,
     "saying": "Adam Silver looks like the fake scientist in a detergent commercial, sternly shaking his head in disapproval at the competitions stain-fighting power."
   },
@@ -24,20 +26,24 @@ var Sayings = [
     "saying": "Adam Silver looks like the white Tony Dungy."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CTppyt6VEAACJ2F.jpg",
     "date": 2015,
     "saying": "Al Golden looks like the overwhelmed Chick Fil A manager whose fryer just went down right before the lunch rush."
   },
   {
     "name": "Al Michaels",
+    "imageUrl": "https://pbs.twimg.com/media/C5cc0-WVUAA-WhN.jpg",
     "date": 2017,
     "saying": "Al Michaels looks like one of the white dudes they try to pass off as brown in 'Scarface\"."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/C49LdY6UMAEHWCD.jpg",
     "date": 2015,
     "saying": "Andrei Kirilenko goes to a wedding wearing his suit from his job at the morgue."
   },
   {
     "name": "Andrew Luck",
+    "imageUrl": "https://pbs.twimg.com/media/Cv3R5ngUEAI1Eo8.jpg",
     "date": 2017,
     "saying": "Andrew Luck looks like a human to werewolf transformation that encountered a loading error at 45%."
   },
@@ -63,12 +69,14 @@ var Sayings = [
     "saying": "Andy Reid looks like the resident who complains to the homeowners association that a substantial portion of his neighbor's sycamore is cascading over his freshly painted fence."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/profile_images/584394824201080833/61XXMIEL.jpg",
     "date": 2015,
     "saying": "Antonio Davis looks like a graveyard shift security guard."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/C6slHbmVwAA4yaJ.jpg",
     "date": 2016,
-    "saying": "Art Briles looks like an old man sitting on a rocking chair outside a bar who pulls out a gun and sets it on his lap while telling people \"Not from around these parts\" asking for directions, \"Yeah, it's back the way you came.\""
+    "saying": "Art Briles looks like an old man sitting on a rocking chair outside a bar who pulls out a gun and sets it on his lap while telling people, \"Not from around these parts,\" asking for directions, \"Yeah, it's back the way you came.\""
   },
   {
     "imageUrl": "https://pbs.twimg.com/media/CUwHtyCWEAUiY3a.jpg",
@@ -77,20 +85,24 @@ var Sayings = [
   },
   {
     "name": "Arthur Blank",
+    "imageUrl": "https://pbs.twimg.com/media/C39nme0UoAE26nx.jpg",
     "date": 2017,
     "saying": "Arthur Blank looks like retired vampire who trains young, up-and-coming vampires so he can give back."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/C6qEEq_V0AETDZl.jpg",
     "date": 2015,
     "saying": "Avery Johnson looks like a judge on a daytime television show."
   },
   {
-    "date": 2016,
+    "imageUrl": "https://pbs.twimg.com/media/CSRmYXKWEAIXfPS.jpg",
+    "date": 2015,
     "saying": "Barry Melrose looks like a former gladiator who won his freedom and now runs a gladiator ring of his own in a backwater town."
   },
   {
-    "date": 2016,
-    "saying": "Bartolo Colon looks like the last Mohican, who ate the second to last Mohican."
+    "imageUrl": "https://pbs.twimg.com/media/CSau1NYUkAASfk3.jpg",
+    "date": 2015,
+    "saying": "Bartolo Colón looks like the last Mohican that ate the 2nd to last Mohican."
   },
   {
     "name": "Ben McAdoo",
@@ -100,11 +112,13 @@ var Sayings = [
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/card_img/843254020487741442/msdJWoUk?format=jpg&name=600x314",
     "date": 2017,
     "saying": "Ben McAdoo looks like a father who embarrasses his family by annunciating the \"j\" in 'chicken fajita' when ordering at Taco Bell."
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/media/C7T4M5ZXQAEm6gE.jpg",
     "date": 2017,
     "saying": "Ben McAdoo looks like a guy who, when crossing a busy street with his family, holds up one hand to halt traffic until his family is safely across the street."
   },
@@ -116,21 +130,25 @@ var Sayings = [
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/card_img/843254020487741442/msdJWoUk?format=jpg&name=600x314",
     "date": 2017,
     "saying": "Ben McAdoo looks like a pirate from an off-strip Vegas show circa 1996."
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/card_img/843254020487741442/msdJWoUk?format=jpg&name=600x314",
     "date": 2017,
     "saying": "Ben McAdoo looks like an online karate instructor."
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/media/C7EUPtlXkAEkVqd.jpg",
     "date": 2017,
     "saying": "Ben McAdoo looks like divorce."
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/media/C7EUPtlXkAEkVqd.jpg",
     "date": 2017,
     "saying": "Ben McAdoo looks like every dad who's ever been hit below the belt with a wiffle ball bat on America's Funniest Home Videos."
   },
@@ -141,26 +159,31 @@ var Sayings = [
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/media/C7d7CLbXwAEo1ZJ.jpg",
     "date": 2017,
     "saying": "Ben McAdoo looks like that guy that pretends he knows what you're talking about by repeating the last two words."
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/media/C7d7CLbXwAEo1ZJ.jpg",
     "date": 2017,
     "saying": "Ben McAdoo looks like the guy in the background of your vacation photos."
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/media/C7EUPtlXkAEkVqd.jpg:large",
     "date": 2017,
     "saying": "Ben McAdoo looks like the guy trying to sell his 3-ring binder full of baseball cards for \"250 Bones\" at his garage sale."
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/media/C7EUPtlXkAEkVqd.jpg:large",
     "date": 2017,
     "saying": "Ben McAdoo looks like the guy who married the hottest girl in high school, 20 years later, and takes care of her 6 kids while she's out at the bar with her ex."
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/media/C7d7CLbXwAEo1ZJ.jpg",
     "date": 2017,
     "saying": "Ben McAdoo looks like the guy who takes it upon himself to keep the condo pool free of leaves."
   },
@@ -172,6 +195,7 @@ var Sayings = [
   },
   {
     "name": "Ben McAdoo",
+    "imageUrl": "https://pbs.twimg.com/media/C7d7CLbXwAEo1ZJ.jpg",
     "date": 2017,
     "saying": "Ben McAdoo looks like the guys at a swimming pool supply store lecturing you on the importance of pH balanced water; he does not work there."
   },
@@ -196,40 +220,48 @@ var Sayings = [
     "saying": "Big Baby Davis looks like the cop who has trouble jumping the fence while chasing a criminal and lets him get away in the process."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/C7PlQsUW4AEF7m9.jpg:large",
     "date": 2015,
     "saying": "Bill Cower looks like the overly intense softball dad who never had a son, and is trying to live out his unrealized sports dreams through his obese daughter who plays first base, and whom he refers to as a power hitter."
   },
   {
     "name": "Bill Russell",
+    "imageUrl": "https://pbs.twimg.com/media/C6iFdB2V4AEtIXS.jpg",
     "date": 2017,
     "saying": "Bill Russell looks like the old mechanic with an unlit cigarette hanging from his lips that never falls off, even when he's talking."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/card_img/843533759295229952/T5vBZI9_?format=jpg&name=600x314",
     "date": 2016,
     "saying": "Billy Donavan looks like a vampire who woke up in the wrong century."
   },
   {
     "name": "Billy Donovan",
+    "imageUrl": "https://pbs.twimg.com/card_img/843107266190594049/uOw3Bzib?format=jpg&name=600x314",
     "date": 2017,
     "saying": "Billy Donovan looks like a grocery store manager who has the location of every item in his store memorized and during meetings reminds his staff of teenagers that the difference between ordinary and extraordinary is that little extra effort."
   },
   {
     "name": "Bo Pelini",
     "phoneticName": "Bo Paleeney",
+    "imageUrl": "https://pbs.twimg.com/media/C7VMejpU8AAQ-LO.jpg",
     "date": 2015,
     "saying": "Bo Pelini looks like a toe."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/C6vAwbjVoAAnL8D.jpg",
     "date": 2016,
     "saying": "Bo Ryan looks like the creepy funeral home director who offers recent widows a shoulder to cry on in an attempt to seduce them."
   },
   {
     "name": "Bob Ley",
     "phoneticName": "Bob Lee",
+    "imageUrl": "https://pbs.twimg.com/media/C3uO3QKUoAAJuse.jpg",
     "date": 2016,
     "saying": "Bob Ley looks like the guy who, after being told a secret, pretends to zip his lips, lock them up, and throw away the key over his shoulder."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/C1vN1nrWEAE1mQx.jpg",
     "date": 2016,
     "saying": "Brad Nessler looks like he walked out of a 1920s gangster-run nightclub."
   },
@@ -249,10 +281,12 @@ var Sayings = [
     "saying": "Bret Bielema looks like the guy who says, \"Diet starts tomorrow,\" as he takes a giant bite out of a pulled pork sandwich."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/C36j6gwWMAEMIY8.jpg",
     "date": 2016,
     "saying": "Brian Dawkins looks like the guy at church who points to the sky with his eyes closed biting his lip and crying."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/C6a6rwaXQAApe_l.jpg",
     "date": 2015,
     "saying": "Brian Kelly looks like the shirtless yachter who is perpetually washing his boat."
   },
@@ -262,24 +296,29 @@ var Sayings = [
     "saying": "Brock Osweiler looks like the fan in the student section of a college football, who folds his hands behind his head, after his team gives up a last-second hail mary to lose the game."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/C6NBK2gVMAAARff.jpg",
     "date": 2015,
     "saying": "Bruce Arians looks like a \"Guess Who\" character."
   },
   {
     "name": "Bruce Arians",
+    "imageUrl": "https://pbs.twimg.com/media/C1GPHiHUUAATvB6.jpg",
     "date": 2017,
     "saying": "Bruce Arians looks like the chef at a wedding reception who’s in charge of cutting the prime rib"
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/C6bMR-hWUAELoav.jpg",
     "date": 2016,
     "saying": "Buck Showalter looks like the old Texas lawman who squashes disputes at the local saloon by simply swinging open the double doors and staring down rowdy patrons. Richie Incognito and Ndamukong Suh are those rowdy patrons."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/C5PVmsGWQAAbOP0.jpg",
     "date": 2015,
     "saying": "Buster Olney looks like the guy at the gym who uses the treadmill right next to you even though the entire row of machines is empty."
   },
   {
     "name": "Charles Barkley",
+    "imageUrl": "https://pbs.twimg.com/media/CSXOLkpUAAEhuJV.jpg",
     "date": 2015,
     "saying": "Charles Barkley looks like a thumb."
   },
@@ -290,6 +329,7 @@ var Sayings = [
   },
   {
     "name": "Charlie Weis",
+    "imageUrl": "https://pbs.twimg.com/media/CSHtuYnWsAArCc-.jpg",
     "date": 2015,
     "saying": "Charlie Weis looks like a fat guy who was cut in half and accidentally had the bottom half sewn on backwards."
   },
@@ -378,6 +418,7 @@ var Sayings = [
     "saying": "DeAndre Jordan looks like a cartoon moose."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CTdYcHIWcAEtbgG.jpg",
     "date": 2015,
     "saying": "Donnie Walsh looks like he's in town to kill a guy."
   },
@@ -419,6 +460,7 @@ var Sayings = [
     "saying": "Former NFL Official Bill Leavy looks like if you break the curse, his body will dissolve into scarabs that scurry back into the pyramid."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CScwdfVWcAAO6L-.jpg",
     "date": 2015,
     "saying": "Frank Vogel looks like the guy who keeps calling you to hang out and you keep creating excuses not to go."
   },
@@ -439,10 +481,12 @@ var Sayings = [
     "saying": "Gary Kubiak looks like the retired and divorced New York detective getting over a drinking problem."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSVkcdEUcAQbjZi.jpg",
     "date": 2015,
-    "saying": "Gene Chizik looks like the guys who tosses a bullet to his daughter's boyfriend and says, \"Second one comes faster if you're late.\""
+    "saying": "Gene Chizik looks like the guy who tosses a bullet to his daughter's boyfriend and says, \"Second one comes faster if you're late.\""
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSShMNzUsAAODcs.jpg",
     "date": 2015,
     "saying": "George Karl looks like the leader of a nudist colony."
   },
@@ -476,8 +520,9 @@ var Sayings = [
     "saying": "Jack Del Rio looks like the retired cop who lives on a houseboat and solves crimes in his spare time."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSHuFPNWcAEJUVJ.jpg",
     "date": 2015,
-    "saying": "Jack Del Rio looks like the stepdad who tries too hard to be called dad."
+    "saying": "Jack Del Rio looks like the new step father trying too hard to get the kids to call him dad."
   },
   {
     "date": 2016,
@@ -507,6 +552,7 @@ var Sayings = [
     "saying": "Jeff Fisher looks like a cruise ship captain."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSsDxO2U8AAcj1P.jpg",
     "date": 2016,
     "saying": "Jeff Fisher looks like a guy in a Lynyrd Skynyrd shirt shotgunning a beer on the infield of a NASCAR track."
   },
@@ -523,6 +569,7 @@ var Sayings = [
     "saying": "Jeff Fisher looks like the guy who strolls into the sheriff's office and says, \"Coyote got in to the sheep pen again.\""
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSsCwjxW4AAUCdL.jpg",
     "date": 2015,
     "saying": "Jeff Teague looks like a ventriloguist's doll."
   },
@@ -542,11 +589,13 @@ var Sayings = [
     "saying": "Jeff Van Gundy looks like the guy who can't sleep in a cold medicine commercial."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSL1Na5WoAAY9ZQ.jpg",
     "date": 2015,
     "saying": "Jeff Van Gundy looks like the morgue worker who is doing an autopsy while holding a half-eaten sandwich."
   },
   {
     "name": "Jeff Van Gundy",
+    "imageUrl": "https://pbs.twimg.com/media/CShMrM1WoAAz8vX.jpg",
     "date": 2015,
     "saying": "Jeff Van Gundy looks like the queen of hearts."
   },
@@ -656,6 +705,8 @@ var Sayings = [
   },
   {
     "name": "John Elway",
+    "imageUrl": "https://pbs.twimg.com/media/CSx1X6QWUAAd4wj.jpg",
+    "date": 2015,
     "saying": "John Elway looks like a horse."
   },
   {
@@ -715,15 +766,18 @@ var Sayings = [
     "saying": "Lionel Hollins looks like the creepy, rich leader of an organized crime ring who has a really hot daughter everyone's afraid to go near."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSqXiEBXIAAyhu2.jpg",
     "date": 2015,
     "saying": "Lionel Messi looks like the waiter who scoffs at your choice of wine."
   },
   {
     "name": "Lou Holtz",
+    "imageUrl": "https://pbs.twimg.com/media/CScxgZzXIAATmE1.jpg",
     "date": 2015,
     "saying": "Lou Holtz looks like a train conductor."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSIJikpWsAAEcTJ.jpg",
     "date": 2015,
     "saying": "Luis Scola looks like the 6th grade hispanic lunch lady."
   },
@@ -754,8 +808,9 @@ var Sayings = [
     "saying": "Mark Cuban looks like a Roman senator who conspired against Caesar."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSalPeyXAAEkLOF.jpg",
     "date": 2015,
-    "saying": "Mark Tressman looks like the surgeon who delivers the bad news to your family that your arm has to be amputated."
+    "saying": "Marc Trestman looks like the surgeon who delivers the bad news to your family that your arm has to be amputated."
   },
   {
     "imageUrl": "https://pbs.twimg.com/media/CZhUsBOVIAAylPK.jpg",
@@ -776,10 +831,7 @@ var Sayings = [
     "saying": "Mike Budenholzer looks like a sad-faced clown who has trouble removing all of his makeup."
   },
   {
-    "date": 2015,
-    "saying": "Mike Dunleavy Jr. looks like a generic police sketch."
-  },
-  {
+    "imageUrl": "https://pbs.twimg.com/media/CSXFo1PW0AAmrYH.jpg",
     "date": 2015,
     "saying": "Mike Dunleavy Jr. looks like a generic police sketch."
   },
@@ -800,6 +852,7 @@ var Sayings = [
     "saying": "Mike Leach looks like the guy who loudly enters a room and says, \"Working hard or hardly working?\""
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSLzpDnUsAEDV9E.jpg",
     "date": 2015,
     "saying": "Mike McCarthy looks like an Elvis impersonator."
   },
@@ -825,14 +878,17 @@ var Sayings = [
     "saying": "Mike Woodson looks like he constantly tells his family, \"I'm not sleeping, I'm just resting my eyes\""
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSnBLbNVAAADIC0.jpg",
     "date": 2016,
     "saying": "Ned Yost looks like every white person's aunt."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSfxtzOW4AEk8nu.jpg",
     "date": 2015,
     "saying": "Nene looks like a gladiator that will help you slay a tiger then join you as you embark on a quest"
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSqalleUYAAajxE.jpg",
     "date": 2015,
     "saying": "Nick Saban looks like the guy who runs a lap, looks at his stopwatch and says, \"Still got it,\" while snapping his fingers."
   },
@@ -898,6 +954,7 @@ var Sayings = [
     "saying": "Randy Scott looks like a ticket taker at a movie theater who tells every single person to \"Enjoy the show!\""
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSHvorXUcAE8zeu.jpg",
     "date": 2015,
     "saying": "Rex and Rob Ryan look like an aging pro wrestling tag team that still performs at the county fair."
   },
@@ -912,6 +969,7 @@ var Sayings = [
     "saying": "Rick Fox looks like the beach lifeguard who is too busy flirting with girls to notice a child drifting out to sea."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSvNDFYWEAAEW7Y.jpg",
     "date": 2015,
     "saying": "Rob Ryan looks like the crazy homeless guy always getting in fights at the soup kitchen line."
   },
@@ -926,6 +984,7 @@ var Sayings = [
     "saying": "Romeo Crennel looks like he just watched his neighbor's dog get eaten by an alligator."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSgvgkVWcAEx_zG.jpg",
     "date": 2015,
     "saying": "Romeo Crennel looks like he plays the standup bass in Grandpa Huxtable's jazz band."
   },
@@ -934,6 +993,7 @@ var Sayings = [
     "saying": "Romeo Crennel looks like the courtroom bailiff in a small southern town who nods off to sleep during the middle of proceedings only to be woken up when the judge hits his gavel."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSZ5huGUAAAcIBk.jpg",
     "date": 2015,
     "saying": "Ron Rivera looks like the guy who wears a lei for his entire vacation in Hawaii."
   },
@@ -953,7 +1013,7 @@ var Sayings = [
     "saying": "Roy Williams looks like the curator of a small-town historical society who patiently gazes out the window for potential visitors all day, sighs, then flips the sign to \"CLOSED.\""
   },
   {
-    "imageUrl": "https://pbs.twimg.com/media/C53z4QyXEAAiZIe.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CTKwGE-UsAAvdOu.jpg",
     "date": 2015,
     "saying": "Roy Williams looks like the small town pharmacist who always has lollipops for the kids."
   },
@@ -973,6 +1033,7 @@ var Sayings = [
   },
   {
     "name": "Ryan Fitzpatrick",
+    "imageUrl": "https://pbs.twimg.com/media/CShM05KWEAA4-sJ.jpg",
     "saying": "Ryan Fitzpatrick looks like the king of hearts."
   },
   {
@@ -985,7 +1046,8 @@ var Sayings = [
     "saying": "Scott Brooks looks like the dentist who lives across the street and is always passing out tooth brushed on Halloween."
   },
   {
-    "date": 2016,
+    "imageUrl": "https://pbs.twimg.com/media/CTkq7H5VAAAtcLn.jpg",
+    "date": 2015,
     "saying": "Scott Van Pelt looks like a computer-generated image of what we used to think people would look like in the future."
   },
   {
@@ -997,8 +1059,9 @@ var Sayings = [
     "saying": "Shane Battier looks like the guy snapping his fingers in a barbershop quartet while holding a top hat to his chest and singing along to tune of \"Big Girls Don't Cry.\""
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CS7vmR8WUAA6E4k.jpg",
     "date": 2015,
-    "saying": "Shane Battier looks like the tennis coach who gets a little too close to your wife during a lesson."
+    "saying": "Shane Battier looks like a tennis instructor who gets a little too close to your wife."
   },
   {
     "name": "Skip Bayless",
@@ -1029,6 +1092,7 @@ var Sayings = [
     "saying": "Stephen Ross looks like the old man who wears pajamas with a matching pointy hat and holds a candle to his face while checking on that noise downstairs."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSSeSjxWsAENZjm.jpg",
     "date": 2016,
     "saying": "Steve Kerr looks like the guy who brushes his teeth in the work bathroom."
   },
@@ -1051,6 +1115,7 @@ var Sayings = [
     "saying": "Teddy Birdgewater sounds like a children's book about a stuffed animal saving a town from a flood."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CSceqHOUAAA3o4i.jpg",
     "date": 2015,
     "saying": "Terry Collins looks like the guy who shows up at the Golden Girl's house to pick up Blanche Devereaux for a date."
   },
@@ -1087,6 +1152,7 @@ var Sayings = [
     "saying": "Tom Thibodeau looks like the guy in an antacid commercial uncomfortably eating a chili dog while pulling at his collar for relief."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CS7R8L-VAAA7Wts.jpg",
     "date": 2015,
     "saying": "Tom Thibodeau looks like the overworked homocide detective always adjusting his neck tie and smoking too many heaters."
   },
@@ -1099,6 +1165,7 @@ var Sayings = [
     "saying": "Tony Dungy looks like the guy who has fishing lures in his hat."
   },
   {
+    "imageUrl": "https://pbs.twimg.com/media/CTK_ZXXWEAASLxG.jpg",
     "date": 2015,
     "saying": "Tony Dungy looks like the Halloween mask that's on sale for 50% off the day after Halloween."
   },
@@ -1130,10 +1197,7 @@ var Sayings = [
     "saying": "Ty Lawson looks like the DirecTV installer who shows up to your house an hour late and claims he has the wrong equipment and has to reschedule."
   },
   {
-    "date": 2015,
-    "saying": "Tyler Hansbrough looks like he is being haunted by ghosts that no one else sees."
-  },
-  {
+    "imageUrl": "https://pbs.twimg.com/media/CSHwalKWcAEKrVI.jpg",
     "date": 2015,
     "saying": "Tyler Hansbrough looks like he's constantly haunted by ghosts no one else sees."
   },
@@ -1874,6 +1938,90 @@ var Sayings = [
     "date": 2015,
     "added": "2017-03-22T00:00:00.000Z",
     "saying": "Sean Miller looks like all the Entourage main characters combined into one person."
+  },
+  {
+    "imageUrl": "https://pbs.twimg.com/media/CT3mpqvWcAQ2Xw8.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Josh McRoberts looks like a retired getaway driver whos trying really hard not to get pulled back in for 1 last job"
+  },
+  {
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Frank Vogel looks like the post office manager who emerges from the back as the line grows and asks if anyone is just picking something up."
+  },
+  {
+    "imageUrl": "https://pbs.twimg.com/media/CTk08dcXIAAYmUQ.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Robin Lopez looks like a man lost at sea, found living on a deserted island 3 years after his wife has declared him dead."
+  },
+  {
+    "imageUrl": "https://pbs.twimg.com/media/CTfs52HUAAAa3ds.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Mark Davis looks like what you would see in a PSA about the dangers of leaving your scarecrow too close to a radiator."
+  },
+  {
+    "name": "Boog Sciambi",
+    "phoneticName": "Boog Shaambee",
+    "imageUrl": "https://pbs.twimg.com/media/CTOWDWEWIAEcxad.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Boog Sciambi looks like the proud, back to back IHOP manager of the year."
+  },
+  {
+    "imageUrl": "https://pbs.twimg.com/media/CTOF1b4VAAAYgqp.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Marc Stein looks like the child actor who never landed a role after puberty."
+  },
+  {
+    "imageUrl": "https://pbs.twimg.com/media/CTKw1VMU8AAymX4.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Gregg Popovich looks like a Scooby-Doo villain."
+  },
+  {
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Chris Brousard looks like the commercial husband who stands smiling while his wife explains how a short term loan company helped them."
+  },
+  {
+    "imageUrl": "https://pbs.twimg.com/media/CTBWTsrWcAEUL9m.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Brad Stevens looks like his dad got him the job."
+  },
+  {
+    "imageUrl": "https://pbs.twimg.com/media/CTA2v0aWoAAkgqf.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Stan Van Gundy looks like the ring leader of a traveling circus 6 weeks from bankruptcy."
+  },
+  {
+    "imageUrl": "https://pbs.twimg.com/media/CS05lW8UkAAOT7g.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Tim Kurkjian looks like an overworked accountant that still wears an arm garter and green-billed visor."
+  },
+  {
+    "imageUrl": "https://pbs.twimg.com/media/CSz64OeUAAA1ceJ.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Mike Greenberg looks like the businessman with briefcase in a disaster movie who has one line before being washed away by a tidal wave."
+  },
+  {
+    "imageUrl": "https://pbs.twimg.com/media/CSRl59aWUAAj8DD.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "David Blatt looks like the chess champion and grandmaster constantly being pitted against super computers."
+  },
+  {
+    "imageUrl": "https://pbs.twimg.com/media/CSRpHp5UEAAmZz4.jpg",
+    "date": 2015,
+    "added": "2017-03-23T00:00:00.000Z",
+    "saying": "Leandro Barbosa looks like a meerkat."
   }
 ];
 
